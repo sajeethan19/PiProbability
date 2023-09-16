@@ -15,7 +15,9 @@ So, If we want to find the value of Pi by a manual method like counting we have 
 
 <h2> How t use Probability here. </h2>
 
-We can define probability of an even as,
+We can define probability of an event as,
 $$\text{Probability of an event}=\frac{\text{count an event happen}}{\text{count of total possible event}}$$ 
 
-so lets take a quarter circle with radius R. 
+so lets take a quarter circle with radius R which is placed inside of a square with length of a side is R.
+
+![Explain the square with quarter circle](./ExplainSquareAndQCircle.png)
