@@ -46,5 +46,10 @@ But we know that,
 $$\text{Area of the Quarter Circle}=\frac{1}{4}\pi r^2$$
 $$\text{Area of that square}=r^2$$
 
+Now we can tell that,
+
+$$\frac{C}{S}=\frac{\frac{1}{4}\pi r^2}{r^2}$$
+
+$$\text{Therefore }\pi=4\frac{C}{S}$$
 
 
