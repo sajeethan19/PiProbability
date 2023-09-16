@@ -59,7 +59,7 @@ $$\pi=4\frac{\text{count of the points inside the circle}}{\text{count of the to
 
 For more approximation,
 -Increase the total points.
--Average by doing it Again and again.
+*Average by doing it Again and again.
 
 
 
