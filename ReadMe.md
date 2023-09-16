@@ -16,6 +16,6 @@ So, If we want to find the value of Pi by a manual method like counting we have 
 <h2> How t use Probability here. </h2>
 
 We can define probability of an even as,
-$$\frac{\text{count an event happen}}{\text{count of total possible event}}$$ 
+$$\text{Probability of an event}=\frac{\text{count an event happen}}{\text{count of total possible event}}$$ 
 
 so lets take a quarter circle with radius R. 
