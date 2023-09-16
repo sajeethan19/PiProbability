@@ -1,17 +1,17 @@
-<h1 align="center">Finding Pi value by Counting</h1>
+<h1 align="center">Finding $$\pi$$value by Counting</h1>
 
 <h2>Introduction</h2>
 
-Basically Pi is known as a float number which is irrational.
+Basically $$\pi$$is known as a float number which is irrational.
 Most of the natural phenomena is containing calculation with Pi. This number is not just a thing in maths but also it's combined with our real worlds function like Golden Ratio.
 
 <h2>Ideology</h2>
 
-We all know that Pi is the constant we used for defining circular thing like area of circle, circumstance of a circle, volume of a sphere, surface area of a sphere, volume of cylinder, surface are of cylinder ant etc.
+We all know that $$\pi$$is the constant we used for defining circular thing like area of circle, circumstance of a circle, volume of a sphere, surface area of a sphere, volume of cylinder, surface are of cylinder ant etc.
 
-![Pi Functions](https://www.mathsisfun.com/geometry/images/cone-sphere-cylinder-vol.svg)
+![$$\pi$$Functions](https://www.mathsisfun.com/geometry/images/cone-sphere-cylinder-vol.svg)
 
-So, If we want to find the value of Pi by a manual method like counting we have to integrate of those geometry function with a manual tool like counting. For that purpose I select the tool Probability function.
+So, If we want to find the value of $$\pi$$by a manual method like counting we have to integrate of those geometry function with a manual tool like counting. For that purpose I select the tool Probability function.
 
 <h2> How to use Probability here. </h2>
 
@@ -43,13 +43,22 @@ Therefore we can tell the above probability function as,
 $$P=\frac{\text{Area of the Quarter Circle}}{\text{Area of that square}}$$
 
 But we know that,
-$$\text{Area of the Quarter Circle}=\frac{1}{4}\pi r^2$$
+$$\text{Area of the Quarter Circle}=\frac{1}{4}\$$\pi$$r^2$$
 $$\text{Area of that square}=r^2$$
 
 Now we can tell that,
 
-$$\frac{C}{S}=\frac{\frac{1}{4}\pi r^2}{r^2}$$
+$$\frac{C}{S}=\frac{\frac{1}{4}\$$\pi$$r^2}{r^2}$$
 
-$$\text{Therefore }\pi=4\frac{C}{S}$$
+$$\pi=4\frac{C}{S}$$
+
+<h2>Conclusion</h2>
+
+According to above proof we can find the value of $$\pi$$ by counting the points.
+$$\pi=4\frac{\text{count of the points inside the circle}}{\text{count of the total point we picked inside the square}}$$
+
+For more approximation,
+-Increase the total points.
+-Average by doing it Again and again.
 
 
