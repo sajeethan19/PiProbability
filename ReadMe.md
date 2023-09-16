@@ -5,8 +5,9 @@ Most of the natural phenomena is containing calculation with Pi. This number is 
 
 <h2>Ideology</h2>
 
-We all know that Pi is the constant we used for defining circular thing like area of circle, circumstance of a circle, volume of a sphere, surface area of a sphere, volume of cylinder, surface are of cylinder ant etc. 
-![Pi Functions](https://www.google.lk/url?sa=i&url=https%3A%2F%2Fwww.mathsisfun.com%2Fgeometry%2Fcone-sphere-cylinder.html&psig=AOvVaw0EQKnFspQLESzuWH_suwFv&ust=1694918631033000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCODvqoiOroEDFQAAAAAdAAAAABAI)
+We all know that Pi is the constant we used for defining circular thing like area of circle, circumstance of a circle, volume of a sphere, surface area of a sphere, volume of cylinder, surface are of cylinder ant etc.
+
+![Pi Functions](https://www.mathsisfun.com/geometry/images/cone-sphere-cylinder-vol.svg)
 
 So, If we want to find the value of Pi by a manual method like counting we have to integrate of those geometry function with a manual tool like counting. For that purpose I select the tool Probability function.
 
