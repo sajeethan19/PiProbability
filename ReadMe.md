@@ -1,4 +1,4 @@
-<h1 align="center">Finding π value by Counting</h1>
+<h1 align="center">Finding Pi(π) value by Counting</h1>
 
 <h2>Introduction</h2>
 
@@ -9,7 +9,7 @@ Most of the natural phenomena is containing calculation with Pi. This number is 
 
 We all know that π is the constant we used for defining circular thing like area of circle, circumstance of a circle, volume of a sphere, surface area of a sphere, volume of cylinder, surface are of cylinder ant etc.
 
-![π Functions](https://www.mathsisfun.com/geometry/images/cone-sphere-cylinder-vol.svg)
+![Pi Functions](https://www.mathsisfun.com/geometry/images/cone-sphere-cylinder-vol.svg)
 
 So, If we want to find the value of π by a manual method like counting we have to integrate of those geometry function with a manual tool like counting. For that purpose I select the tool Probability function.
 
@@ -43,12 +43,12 @@ Therefore we can tell the above probability function as,
 $$P=\frac{\text{Area of the Quarter Circle}}{\text{Area of that square}}$$
 
 But we know that,
-$$\text{Area of the Quarter Circle}=\frac{1}{4}\π r^2$$
+$$\text{Area of the Quarter Circle}=\frac{1}{4}\pi r^2$$
 $$\text{Area of that square}=r^2$$
 
 Now we can tell that,
 
-$$\frac{C}{S}=\frac{\frac{1}{4}\π r^2}{r^2}$$
+$$\frac{C}{S}=\frac{\frac{1}{4}\pi r^2}{r^2}$$
 
 $$\pi=4\frac{C}{S}$$
 
@@ -60,7 +60,6 @@ $$\pi=4\frac{\text{count of the points inside the circle}}{\text{count of the to
 For more approximation,
 -Increase the total points.
 -Average by doing it Again and again.
-
 
 
 
