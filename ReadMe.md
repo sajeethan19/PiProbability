@@ -36,6 +36,7 @@ $$P=\frac{C}{S}$$
 
 When the total points we selected become ultimately large they approximate the value of the area of the square. Likewise points inside the quarter circle become the area of that.
 ![Explanation](./Explain.png)
+
 Therefore we can tell the above probability function as,
 
 $$P=\frac{\text{Area of the Quarter Circle}}{\text{Area of that square}}$$
