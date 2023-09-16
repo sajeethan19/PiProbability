@@ -1,3 +1,5 @@
+<h1>Finding Pi value by Counting</h1>
+
 <h2>Introduction</h2>
 
 Basically Pi is known as a float number which is irrational.
@@ -11,7 +13,7 @@ We all know that Pi is the constant we used for defining circular thing like are
 
 So, If we want to find the value of Pi by a manual method like counting we have to integrate of those geometry function with a manual tool like counting. For that purpose I select the tool Probability function.
 
-<h2> Intro to Probability </h2>
+<h2> How t use Probability here. </h2>
 
 We can define probability of an even as,
 $$\(count that an event happen)/(count of total possible event)$$
