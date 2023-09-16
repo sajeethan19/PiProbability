@@ -42,5 +42,9 @@ Therefore we can tell the above probability function as,
 
 $$P=\frac{\text{Area of the Quarter Circle}}{\text{Area of that square}}$$
 
+But we know that,
+$$\text{Area of the Quarter Circle}=\sfrac{1}{4}\pi r^2$$
+$$\text{Area of that square}=r^2$$
+
 
 
