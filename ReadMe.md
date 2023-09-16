@@ -55,7 +55,7 @@ $$\pi=4\frac{C}{S}$$
 <h2>Conclusion</h2>
 
 According to above proof we can find the value of π by counting the points.
-$$\pi=4\frac{\text{count of the points inside the circle}}{\text{count of the total point we picked inside the square}}$$
+$$\pi=4\times\frac{\text{count of the points inside the circle}}{\text{count of the total point we picked inside the square}}$$
 
 For more approximation,
 - Increase the total points.
